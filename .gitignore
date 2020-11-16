@@ -1,4 +1,5 @@
 MNIST/
+FashionMNIST/
 *.csv
 runs/
 .vscode/
