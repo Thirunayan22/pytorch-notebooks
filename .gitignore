@@ -3,3 +3,4 @@ FashionMNIST/
 *.csv
 runs/
 .vscode/
+CatsAndDogs/
