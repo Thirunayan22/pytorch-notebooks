@@ -1,0 +1,10 @@
+MNIST/
+FashionMNIST/
+*.csv
+runs/
+.vscode/
+CatsAndDogs/
+Pytorch_Text/data/
+Pytorch_Text/.data/
+Pytorch_Text/.idea/
+ 
